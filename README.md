@@ -1,4 +1,4 @@
-# 👋 Hi, I'm José Manuel Barrera Mendoza
+# 👋 Hi, I'm JM
 
 ### **Data Engineer | Data Scientist | Instructor **
 
